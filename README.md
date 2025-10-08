@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guohere
-- Here we go again in 2024.
-- 👀 I’m interested in Python.
+- Here we go again in 2025.
+- 👀 I’m interested in Multimodal models and Robotics.
 - 🌱 I’m currently learning Master's of Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
