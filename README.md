@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @guohere
-- Here we go again in 2025.
-- 👀 I’m interested in Multimodal models and Robotics.
+- 👋 Hi, I’m Xusheng Guo.
+- Here we go again in 2026.
+- 👀 I’m interested in Machine Learning, Deep learning Challenges and projects.
 - 🌱 I’m currently learning Master's of Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 guohere/guohere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
